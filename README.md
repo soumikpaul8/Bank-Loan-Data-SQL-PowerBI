@@ -57,6 +57,7 @@ Download the dataset here: [financial_loan.csv](https://drive.google.com/uc?expo
 ---
 
 ## 🗂️ Project Structure
+```
 loan-data-analysis/
 │
 ├── README.md
@@ -64,23 +65,20 @@ loan-data-analysis/
 ├── requirements.txt
 │
 ├── data/
-│ └── loan_data.csv
+│   └── loan_data.csv
 │
 ├── notebooks/
-│ ├── exploratory_data_analysis.ipynb
-│ ├── loan_risk_modeling.ipynb
+│   ├── exploratory_data_analysis.xlsx
+│   └── loan_risk_modeling.pbix
 │
 ├── scripts/
-│ ├── data_cleaning.py
-│ ├── loan_summary.py
+│   ├── data_cleaning.sql
+│   └── loan_summary.sql
 │
 ├── dashboard/
-│ └── bank_loan_dashboard.pbix
+│   └── bank_loan_dashboard.pbix
 
-yaml
-Copy code
-
----
+```
 
 ## 🧹 Data Cleaning & Preparation
 - 🧩 Handled missing values (**Loan Amount, DTI, Interest Rate**)  
@@ -139,15 +137,20 @@ The **Bank Loan Dashboard (Power BI)** provides:
 - 🎛️ Interactive slicers for state, grade, loan purpose, loan type  
 
 **Dashboard Preview**  
+
 ![Bank Loan Dashboard Page 1](https://raw.githubusercontent.com/soumikpaul8/Bank-Loan-Data-SQL-PowerBI/main/Images/Bank%20LoanData%20Page%201.png)
-![Dashboard Preview Page1](https://via.placeholder.com/800x400.png?text=Your+Power+BI+Dashboard+Screenshot+Here)
-![Dashboard Preview Page1](https://via.placeholder.com/800x400.png?text=Your+Power+BI+Dashboard+Screenshot+Here)
----
+
+
+![Bank Loan Dashboard Page 2](https://raw.githubusercontent.com/soumikpaul8/Bank-Loan-Data-SQL-PowerBI/main/Images/Bank%20LoanData%20Page%202.png)
+
+
+![Bank Loan Dashboard Page 3](https://raw.githubusercontent.com/soumikpaul8/Bank-Loan-Data-SQL-PowerBI/main/Images/Bank%20LoanData%20Page%203.png)
+
+
 
 ## 🚀 How to Run This Project
 
 1. Clone the repository:  
-
 2. git clone https://github.com/soumikpaul8/loan-data-analysis.git
 3. Open dataset in Power BI
 4. Explore the interactive dashboard
@@ -163,9 +166,9 @@ The **Bank Loan Dashboard (Power BI)** provides:
 
 ## 👤Author & Contact
 Soumik Paul
-Data Analyst | Former Software Test Engineer
+Aspiring Data Analyst | Former Software Test Engineer
 📧 Email: SoumikPaul8@gmail.com
-🔗 LinkedIn | 🔗 Portfolio
+
 
 
 
