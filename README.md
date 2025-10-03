@@ -155,7 +155,7 @@ The **Bank Loan Dashboard (Power BI)** provides:
 3. Open dataset in Power BI
 4. Explore the interactive dashboard
 
-## ✅Final Recomendations
+## ✅Final Recommendations
 ⚡ Monitor high-interest + high-DTI loans
 
 💳 Encourage debt consolidation loans
