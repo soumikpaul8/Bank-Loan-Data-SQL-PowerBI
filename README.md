@@ -139,7 +139,7 @@ The **Bank Loan Dashboard (Power BI)** provides:
 - 🎛️ Interactive slicers for state, grade, loan purpose, loan type  
 
 **Dashboard Preview**  
-![Dashboard Preview Page1](https://via.placeholder.com/800x400.png?text=Your+Power+BI+Dashboard+Screenshot+Here)
+![Bank Loan Dashboard Page 1](https://raw.githubusercontent.com/soumikpaul8/Bank-Loan-Data-SQL-PowerBI/main/Images/Bank%20LoanData%20Page%201.png)
 ![Dashboard Preview Page1](https://via.placeholder.com/800x400.png?text=Your+Power+BI+Dashboard+Screenshot+Here)
 ![Dashboard Preview Page1](https://via.placeholder.com/800x400.png?text=Your+Power+BI+Dashboard+Screenshot+Here)
 ---
