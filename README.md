@@ -11,7 +11,7 @@
 1. [📝 Overview](#overview)
 2. [💼 Business Problem](#business-problem)
 3. [📂 Dataset](#dataset)
-4. [🛠️ Tools & Technologies](#tools--technologies)  
+4. [🛠️ Tools & Technologies](#tools-technologies)
 5. [🗂️ Project Structure](#project-structure)
 6. [🧹 Data Cleaning & Preparation](#data-cleaning--preparation)
 7. [📈 Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
@@ -46,7 +46,7 @@ Download the dataset here: [financial_loan.csv](https://drive.google.com/uc?expo
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️Tools & Technologies
 
 | Tool | Usage |
 |------|-------|
@@ -58,6 +58,7 @@ Download the dataset here: [financial_loan.csv](https://drive.google.com/uc?expo
 ---
 
 ## 🗂️Project Structure
+
 ```
 loan-data-analysis/
 │
