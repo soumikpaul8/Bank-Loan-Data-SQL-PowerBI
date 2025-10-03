@@ -57,7 +57,7 @@ Download the dataset here: [financial_loan.csv](https://drive.google.com/uc?expo
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 loan-data-analysis/
