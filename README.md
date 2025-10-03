@@ -42,7 +42,7 @@ The client, a lending institution, faces challenges:
 ---
 
 ## 📂 Dataset
-The dataset link will be provided here: [https://github.com/soumikpaul8/Bank-Loan-Data-SQL-PowerBI/blob/main/Data/financial_loan.csv](#)
+The dataset link will be provided here: [https://raw.githubusercontent.com/soumikpaul8/Bank-Loan-Data-SQL-PowerBI/refs/heads/main/Data/financial_loan.csv](#)
 
 ---
 
