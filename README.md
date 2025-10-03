@@ -41,12 +41,12 @@ The client, a lending institution, faces challenges:
 
 ---
 
-## Dataset
+## 📂Dataset
 Download the dataset here: [financial_loan.csv](https://drive.google.com/uc?export=download&id=17ECsTOxuBgUfIPZmvbTflub-CDorwagq)
 
 ---
 
-## Tools & Technologies
+## 🛠️Tools & Technologies
 
 | Tool | Usage |
 |------|-------|
@@ -57,7 +57,7 @@ Download the dataset here: [financial_loan.csv](https://drive.google.com/uc?expo
 
 ---
 
-## Project Structure
+## 🗂️Project Structure
 
 ```
 loan-data-analysis/
