@@ -46,7 +46,7 @@ Download the dataset here: [financial_loan.csv](https://drive.google.com/uc?expo
 
 ---
 
-##  🛠️Tools & Technologies
+## 🛠️ Tools & Technologies
 
 | Tool | Usage |
 |------|-------|
@@ -57,7 +57,7 @@ Download the dataset here: [financial_loan.csv](https://drive.google.com/uc?expo
 
 ---
 
-## 🗂️Project Structure
+## 🗂️Project_Structure
 
 ```
 loan-data-analysis/
