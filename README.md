@@ -46,7 +46,7 @@ Download the dataset here: [financial_loan.csv](https://drive.google.com/uc?expo
 
 ---
 
-## 🛠️Tools & Technologies
+## 🛠️ Tools & Technologies
 | Tool | Usage |
 |------|-------|
 | 🗄️ SQL | Data querying, comparisons, and transformations for Power BI analysis |
@@ -56,7 +56,7 @@ Download the dataset here: [financial_loan.csv](https://drive.google.com/uc?expo
 
 ---
 
-## 🗂️Project Structure
+## 🗂️ Project Structure
 ```
 loan-data-analysis/
 │
