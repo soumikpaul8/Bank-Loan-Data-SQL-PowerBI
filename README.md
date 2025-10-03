@@ -107,7 +107,7 @@ loan-data-analysis/
 
 ---
 
-## 🔍 Research Questions & Key Findings
+## 🔍Research Questions & Key Findings
 - **Which loans are risky?**  
   → High interest + high DTI loans default more.  
 
@@ -122,7 +122,7 @@ loan-data-analysis/
 
 ---
 
-## 📊 Dashboard
+## 📊Dashboard
 The **Bank Loan Dashboard (Power BI)** provides:
 
 **Summary View**  
@@ -148,7 +148,7 @@ The **Bank Loan Dashboard (Power BI)** provides:
 
 
 
-## 🚀 How to Run This Project
+## 🚀How to Run This Project
 
 1. Clone the repository:  
 2. git clone https://github.com/soumikpaul8/loan-data-analysis.git
