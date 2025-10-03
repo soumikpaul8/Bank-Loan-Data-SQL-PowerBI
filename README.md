@@ -23,13 +23,13 @@
 
 ---
 
-## 📝 Overview
+## 📝Overview
 This project analyses **bank loan data** to evaluate loan performance, identify credit risk, and provide insights into customer behaviour.  
 The goal is to create an **interactive Power BI dashboard** for **data-driven loan approval and portfolio decisions**.  
 
 ---
 
-## 💼 Business Problem
+## 💼Business Problem
 The client, a lending institution, faces challenges:  
 
 - ❌ Lack of centralized, real-time monitoring  
@@ -41,12 +41,12 @@ The client, a lending institution, faces challenges:
 
 ---
 
-## 📂 Dataset
+## 📂Dataset
 Download the dataset here: [financial_loan.csv](https://drive.google.com/uc?export=download&id=17ECsTOxuBgUfIPZmvbTflub-CDorwagq)
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️Tools & Technologies
 | Tool | Usage |
 |------|-------|
 | 🗄️ SQL | Data querying, comparisons, and transformations for Power BI analysis |
@@ -56,7 +56,7 @@ Download the dataset here: [financial_loan.csv](https://drive.google.com/uc?expo
 
 ---
 
-## 🗂️ Project Structure
+## 🗂️Project Structure
 ```
 loan-data-analysis/
 │
@@ -80,7 +80,7 @@ loan-data-analysis/
 
 ```
 
-## 🧹 Data Cleaning & Preparation
+## 🧹Data Cleaning & Preparation
 - 🧩 Handled missing values (**Loan Amount, DTI, Interest Rate**)  
 - 🔤 Converted categorical variables (**Loan Status, Home Ownership, Loan Purpose**)  
 - ⚙️ Derived features: **Good Loan vs. Bad Loan Classification**  
@@ -88,7 +88,7 @@ loan-data-analysis/
 
 ---
 
-## 📈 Exploratory Data Analysis (EDA)
+## 📈Exploratory Data Analysis (EDA)
 **Loan Status Distribution**  
 - ✅ Fully Paid: 83%  
 - ⚠️ Charged Off: 14%  
