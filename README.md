@@ -1,6 +1,6 @@
 # 📊 Bank Loan Report – Loan Data Analysis
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -49,10 +49,9 @@ Download the dataset here: [financial_loan.csv](https://drive.google.com/uc?expo
 ## 🛠️ Tools & Technologies
 | Tool | Usage |
 |------|-------|
-| 🐍 Python | Pandas, Matplotlib, Seaborn, SciPy |
-| 🗄️ SQL | Joins, Filtering, CTEs |
-| 📊 Power BI | Interactive Dashboard |
-| 🐱 GitHub | Version Control |
+| 🗄️ SQL | Data querying, comparisons, and transformations for Power BI analysis |
+| 📊 Power BI | Data cleaning, preparation, and interactive dashboards |
+| 🐱 GitHub | Version control, sharing, and collaboration |
 | 📗 Excel | Data Exploration & Analysis |
 
 ---
@@ -140,21 +139,20 @@ The **Bank Loan Dashboard (Power BI)** provides:
 - 🎛️ Interactive slicers for state, grade, loan purpose, loan type  
 
 **Dashboard Preview**  
-![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Your+Power+BI+Dashboard+Screenshot+Here)
-
+![Dashboard Preview Page1](https://via.placeholder.com/800x400.png?text=Your+Power+BI+Dashboard+Screenshot+Here)
+![Dashboard Preview Page1](https://via.placeholder.com/800x400.png?text=Your+Power+BI+Dashboard+Screenshot+Here)
+![Dashboard Preview Page1](https://via.placeholder.com/800x400.png?text=Your+Power+BI+Dashboard+Screenshot+Here)
 ---
 
 ## 🚀 How to Run This Project
+
 1. Clone the repository:  
-```bash
-git clone https://github.com/your-username/loan-data-analysis.git
-Open dataset in Power BI
 
-Import provided DAX measures
+2. git clone https://github.com/soumikpaul8/loan-data-analysis.git
+3. Open dataset in Power BI
+4. Explore the interactive dashboard
 
-Explore the interactive dashboard
-
-✅ Final Recommendations
+## ✅Final Recomendations
 ⚡ Monitor high-interest + high-DTI loans
 
 💳 Encourage debt consolidation loans
@@ -163,18 +161,11 @@ Explore the interactive dashboard
 
 🧾 Use employment length & credit history as strong approval predictors
 
-👤 Author & Contact
-Your Name
-Data Analyst | BI Developer
-📧 Email: yourname@email.com
+## 👤Author & Contact
+Soumik Paul
+Data Analyst | Former Software Test Engineer
+📧 Email: SoumikPaul8@gmail.com
 🔗 LinkedIn | 🔗 Portfolio
 
-pgsql
-Copy code
 
-✅ **Key updates:**  
-- Table of Contents links now **scroll to sections** automatically.  
-- Anchors simplified to match GitHub header rules.  
-- Excel added as a tool badge in the table.  
-- Dashboard screenshot placeholder included.
 
