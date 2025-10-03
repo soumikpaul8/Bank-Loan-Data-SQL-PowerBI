@@ -12,7 +12,7 @@
 2. [💼 Business Problem](#business-problem)
 3. [📂 Dataset](#dataset)
 4. [🛠️ Tools & Technologies](#tools--technologies)  
-5. [🗂️ Project Structure](#project-structure)  
+5. [🗂️ Project Structure](#project-structure)
 6. [🧹 Data Cleaning & Preparation](#data-cleaning--preparation)
 7. [📈 Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 8. [🔍 Research Questions & Key Findings](#research-questions--key-findings)
@@ -46,7 +46,8 @@ Download the dataset here: [financial_loan.csv](https://drive.google.com/uc?expo
 
 ---
 
-## 🛠️Tools & Technologies
+## 🛠️ Tools & Technologies
+
 | Tool | Usage |
 |------|-------|
 | 🗄️ SQL | Data querying, comparisons, and transformations for Power BI analysis |
@@ -56,7 +57,8 @@ Download the dataset here: [financial_loan.csv](https://drive.google.com/uc?expo
 
 ---
 
-## 🗂️Project Structure
+## 🗂️ Project Structure
+
 ```
 loan-data-analysis/
 │
